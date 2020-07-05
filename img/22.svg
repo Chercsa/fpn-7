@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 288 560" style="enable-background:new 0 0 288 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="30.1368" y1="272.2911" x2="260.1163" y2="272.2911">
+	<stop  offset="5.554651e-02" style="stop-color:#ED1C24"/>
+	<stop  offset="0.2122" style="stop-color:#E61929"/>
+	<stop  offset="0.4478" style="stop-color:#D11238"/>
+	<stop  offset="0.7316" style="stop-color:#AF0650"/>
+	<stop  offset="0.8591" style="stop-color:#9E005D"/>
+</linearGradient>
+<path class="st0" d="M69.5,234.6c-47.9,95.9-52.8,190.5-11,211.3s114.4-40,162.2-135.8s52.8-190.5,11-211.3S117.4,138.7,69.5,234.6z
+	"/>
+<ellipse transform="matrix(0.434 -0.9009 0.9009 0.434 -163.1696 284.8474)" class="st1" cx="145.1" cy="272.3" rx="177.1" ry="61.4"/>
+</svg>
